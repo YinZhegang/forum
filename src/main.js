@@ -38,8 +38,8 @@ Vue.use(RadioGroup)
 Vue.use(MintUI)
 Vue.component('icon', Icon)
 Vue.config.productionTip = false
-
-const Url = 'http://20.1.11.5:8080/'
+const  Url = 'http://61.148.30.210:3001/api/forum/'
+// const Url = 'http://20.1.11.5:8080/'
 // const Url = 'http://114.242.230.14:8888/'
 Vue.prototype.baseURL = Url
 Vue.prototype.trim = str => {
