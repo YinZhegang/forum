@@ -8,7 +8,7 @@ export default new Vuex.Store({
     headerZindex: 0,
     submitAccess: true,
     indexCollectChange: 1,
-    loginUser: '110101199910101235',
+    loginUser: '15620627033',
     eventTrigger: 1,
     tabHeader: {
       leftBtn: '返回',
